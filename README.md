@@ -5,8 +5,10 @@
 
 ## General Documents
 
-* [Command Line Help]
-* [Git Hub Help]
-* [Gem Help]
+* [Command Line Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Terminal/Terminal-Help.md)
+* [Git Hub Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Git/Git-Help.md)
+* [Gem Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Ruby/Gems.md)
 
 ## <a name="Week1">Week 1</a>
+* Paired Programming Task [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
+* Solo Weekend Task [Airport Challenge] (https://github.com/adrianeyre/airport_challenge)
