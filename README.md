@@ -5,6 +5,7 @@
 
 ## General Documents
 
+* [Pre-Course Material] (https://github.com/adrianeyre/pre-course)
 * [Command Line Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Terminal/Terminal-Help.md)
 * [Git Hub Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Git/Git-Help.md)
 * [Gem Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Ruby/Gems.md)
