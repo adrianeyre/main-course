@@ -32,6 +32,13 @@ $ git checkout -b <Branch>
 $ git push origin <Branch>
 ```
 
+## Different pair partnet
+```shell
+$ git checkout <day-one-branch>
+$ git checkout --orphan <day-two-branch-name>
+$ git reset --hard
+```
+
 ## Commit any changes I've done
 ```shell
 $ git add .
