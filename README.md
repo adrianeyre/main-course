@@ -17,3 +17,4 @@
 
 ## <a name="Week2">Week 2</a>
 * Paired Programming Project [Oystercard] (https://github.com/adrianeyre/oystercard)
+* Solo Weekend Project
