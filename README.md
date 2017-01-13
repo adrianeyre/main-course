@@ -10,6 +10,7 @@
 * [Git Hub Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Git/Git-Help.md)
 * [Gem Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Ruby/Gems.md)
 * [Git Pong] (pills/GitPong.md)
+* [SOLID Principles] (pills/solid-OOP_wall-skills.jpg)
 
 ## <a name="Week1">Week 1</a>
 * Paired Programming Project [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
