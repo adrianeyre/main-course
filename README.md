@@ -1,6 +1,6 @@
 # [Makers Academy] (http://www.makersacademy.com) - Main Course Material
 
-[Week 1](#Week1) | [Week 2](#Week2) | [Week 3](#Week3) | [Week 4](#Week4) | [Week 5](#Week5) | [Week 6](#Week6)
+[Week 1](#Week1) | [Week 2](#Week2) | [Week 3](#Week3) | [Week 4](#Week4) | [Week 5](#Week5) | [Week 6](#Week6) |
 [Week 7](#Week7) | [Week 8](#Week8) | [Week 9](#Week9) | [Week 10](#Week10) | [Week 11-12](#Week1112)
 
 ## General Documents
