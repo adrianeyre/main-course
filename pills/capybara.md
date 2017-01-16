@@ -1,14 +1,14 @@
 # Capybara Setup
 
 
-Install Gems
+## Install Gems
 ```
 $ gem install "capybara"
 
 $ gem install "selenium-webdriver"
 ```
 
-Install Geckodriver
+##Install Geckodriver
 ```
 Goto https://github.com/mozilla/geckodriver/releases
 
@@ -21,14 +21,14 @@ Type:  export PATH=$PATH:/Users/AdrianEyre/Projects (Geckodriver file location)
 Run the "geckodriver" file
 ```
 
-Firefox
+## Firefox
 ```
 Download latest version of Firefox
 
 Open Firefox
 ```
 
-Test Capybara in IRB or PRY
+## Test Capybara in IRB or PRY
 ```ruby
 $ require 'capybara'
 => true
