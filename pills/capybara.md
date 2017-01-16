@@ -38,10 +38,10 @@ $ require 'capybara/dsl'
 => true
 $ include Capybara::DSL
 => including Capybara::DSL in the global scope is not recommended!
-Capybara.default_driver = :selenium
+$ Capybara.default_driver = :selenium
 => :selenium
-visit 'http://capybaraworkout.herokuapp.com'
+$ visit 'http://capybaraworkout.herokuapp.com'
 => Opens website in Firefox
-click_link 'Start Workout!'
+$ click_link 'Start Workout!'
 => Starts workout
 ```
