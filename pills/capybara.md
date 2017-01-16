@@ -3,9 +3,9 @@
 
 Install Gems
 ```
-gem install "capybara"
+$ gem install "capybara"
 
-gem install "selenium-webdriver"
+$ gem install "selenium-webdriver"
 ```
 
 Install Geckodriver
