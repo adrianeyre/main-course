@@ -23,7 +23,7 @@
 * Solo Weekend Project [Takeaway Challenge] (https://github.com/adrianeyre/takeaway-challenge)
 
 ## <a name="Week3">Week 3 - Welcome to the web: Battle in the browser</a>
-* Paired Programming Project
+* Paired Programming Project [Battle] (https://github.com/adrianeyre/battle)
 * Solo Weekend Project
 
 ## <a name="Week4">Week 4 - Databases</a>
