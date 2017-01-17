@@ -30,7 +30,7 @@ gem 'coveralls', require: false
 
 ## File: spec/spec_helper.rb
 ```
-require 'coveralls’
+require 'coveralls'
 Coveralls.wear!
 ```
 
@@ -39,14 +39,15 @@ Coveralls.wear!
 $ atom Rakefile
 ```
 
-## 
-14. Paste the following into the file & save:
+## Paste below into Rakefile
+```
 require 'rspec/core/rake_task'
 RSpec::Core::RakeTask.new :spec
 task default: [:spec]
+```
 
-15. In the terminal run the command: bundle
-
-16. You should now see your test coverage by running the command: coveralls report
-
-17. To enable coveralls for a new project, just run steps 6 - 16 for the new project.
+## Terminal
+```shell
+$ bundle
+$ coveralls report
+```
