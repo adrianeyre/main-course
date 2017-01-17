@@ -10,24 +10,10 @@ $ gem install "selenium-webdriver"
 $ brew install geckodriver
 ```
 
-##Install Geckodriver
-```
-Goto https://github.com/mozilla/geckodriver/releases
-
-Download latest version
-
-Unzip the file and put it in your projects folder
-
-Type:  export PATH=$PATH:/Users/AdrianEyre/Projects (Geckodriver file location)
-
-Run the "geckodriver" file
-```
-
 ## Firefox
 ```
 Download latest version of Firefox
 
-Open Firefox
 ```
 
 ## Test Capybara in IRB or PRY
