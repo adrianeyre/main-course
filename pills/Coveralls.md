@@ -18,7 +18,7 @@ Click “ON” on the repo you want to test, then click “DETAILS” to the rig
 $ atom .coveralls.yml
 ```
 
-## .coveralls.yml
+## File: .coveralls.yml
 ```
 8. Copy service_name and a repo_token into the coveralls.yml file
 ```
@@ -28,18 +28,18 @@ $ atom .coveralls.yml
 gem 'coveralls', require: false
 ```
 
-## Terminal
-```shell
-$ atom spec/spec_helper.rb
+## File: spec/spec_helper.rb
 ```
-
-
-12. Paste the following in at the very the top of the file (above everything else) & save:
 require 'coveralls’
 Coveralls.wear!
+```
 
-13. In your terminal, run the command: touch Rakefile
+## Make a Rakefile
+```
+$ atom Rakefile
+```
 
+## 
 14. Paste the following into the file & save:
 require 'rspec/core/rake_task'
 RSpec::Core::RakeTask.new :spec
