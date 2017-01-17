@@ -22,7 +22,7 @@
 * Paired Programming Project [Oystercard] (https://github.com/adrianeyre/oystercard)
 * Solo Weekend Project [Takeaway Challenge] (https://github.com/adrianeyre/takeaway-challenge)
 
-## <a name="Week3">Week 3 - Welcome to the web: Battle in the browser</a>
+## <a name="Week3">Week 3 - Welcome to the web</a>
 * Paired Programming Project [Battle] (https://github.com/adrianeyre/battle)
 * Solo Weekend Project
 
