@@ -20,7 +20,7 @@ $ atom .coveralls.yml
 
 ## File: .coveralls.yml
 ```
-8. Copy service_name and a repo_token into the coveralls.yml file
+Copy service_name and a repo_token into the coveralls.yml file
 ```
 
 ## Gemfile
