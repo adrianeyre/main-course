@@ -6,6 +6,8 @@
 $ gem install "capybara"
 
 $ gem install "selenium-webdriver"
+
+$ brew install geckodriver
 ```
 
 ##Install Geckodriver
