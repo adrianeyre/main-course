@@ -13,7 +13,6 @@ $ brew install geckodriver
 ## Firefox
 ```
 Download latest version of Firefox
-
 ```
 
 ## Test Capybara in IRB or PRY
