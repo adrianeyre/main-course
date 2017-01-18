@@ -79,6 +79,7 @@ expect(subject.somemethod).to be_instance_of(expected)
 expect(subject.somemethod).to be_kind_of(expected)
 expect(subject.somemethod).to respond_to(expected)
 
+expect {subject.somemethod}.to change { subject.someothermethod }.by(-10)
 expect {subject.somemethod}.to raise_error 'error'
 expect {subject.somemethod}.not_to raise_error
 ```
