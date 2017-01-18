@@ -33,7 +33,7 @@ $ click_link 'Start Workout!'
 => Starts workout
 ```
 
-##Navigating
+## Navigating
 ```
 visit('/projects')
 visit(post_comments_path(post))
@@ -77,6 +77,7 @@ end
 ```
 
 ## Querying
+```
 expect(page).to have_xpath?('//table/tr')
 expect(page).to have_css?('table tr.foo')
 expect(page).to have_content?('foo')
