@@ -65,19 +65,19 @@ expect(subject.somemethod).to eq 'something'
 expect(subject.somemethod).to > 1
 expect(subject.somemethod).to < 1
 expect(subject.somemethod).to include 'something'
-expect(subject).to be_between(minimum, maximum).inclusive
-expect(subject).to be_between(minimum, maximum).exclusive
-expect(subject).to match(/expression/)
-expect(subject).to start_with expected
-expect(subject).to end_with expected
-expect(subject).to exist
-expect(subject).to exist(*args)
-expect(subject).to be_instance_of(expected)
-expect(subject).to be_kind_of(expected)
-expect(subject).to respond_to(expected)
+expect(subject.somemethod).to be_between(minimum, maximum).inclusive
+expect(subject.somemethod).to be_between(minimum, maximum).exclusive
+expect(subject.somemethod).to match(/expression/)
+expect(subject.somemethod).to start_with expected
+expect(subject.somemethod).to end_with expected
+expect(subject.somemethod).to exist
+expect(subject.somemethod).to exist(*args)
+expect(subject.somemethod).to be_instance_of(expected)
+expect(subject.somemethod).to be_kind_of(expected)
+expect(subject.somemethod).to respond_to(expected)
 
 expect {subject.somemethod}.to raise_error 'error'
-expect {subject}.not_to raise_error
+expect {subject.somemethod}.not_to raise_error
 ```
 
 ## <a name="Before">Before Block</a>
