@@ -1,7 +1,7 @@
 # Ruby Testing Framework (Rspec)
 
 [Setting up Rspec](#RspecSetup) | [Setting up Rspec for Sanatra](#SinatraSetup) | [Gems Required](#Gems) <br>
-[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Before Block](#Before) | [Subject and Doubles](#Subject) |
+[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Before Block](#Before) | [Subject and Doubles](#Subject)
 
 ## <a name="RspecSetup">Setting up Rspec</a>
 ```shell
@@ -65,7 +65,19 @@ expect(subject.somemethod).to eq 'something'
 expect(subject.somemethod).to > 1
 expect(subject.somemethod).to < 1
 expect(subject.somemethod).to include 'something'
-expect { subject.somemethod }.to raise_error 'error'
+expect(subject).to be_between(minimum, maximum).inclusive
+expect(subject).to be_between(minimum, maximum).exclusive
+expect(subject).to match(/expression/)
+expect(subject).to start_with expected
+expect(subject).to end_with expected
+expect(subject).to exist
+expect(subject).to exist(*args)
+expect(subject).to be_instance_of(expected)
+expect(subject).to be_kind_of(expected)
+expect(subject).to respond_to(expected)
+
+expect {subject.somemethod}.to raise_error 'error'
+expect {subject}.not_to raise_error
 ```
 
 ## <a name="Before">Before Block</a>
@@ -79,4 +91,5 @@ end
 ```ruby
 subject(:<Class Name>) { described_class.new }
 let(:<Double Name>) { double :<Class Name>, method: result}
+variable = subject.instance_variable_get(:@variable)
 ```
