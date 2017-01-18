@@ -88,6 +88,7 @@ expect {subject.somemethod}.not_to raise_error
 ```ruby
 before do
   allow(subject).to receive(:<method name>).and_return true
+  allow(Kernel).to receive(:rand).and_return(100)
 end
 ```
 
