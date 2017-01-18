@@ -95,5 +95,6 @@ end
 ```ruby
 subject(:<Class Name>) { described_class.new }
 let(:<Double Name>) { double :<Class Name>, method: result}
+let(:<Double Name>) { double :<Class Name, :variable= => result}
 variable = subject.instance_variable_get(:@variable)
 ```
