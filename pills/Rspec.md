@@ -8,13 +8,16 @@
 $ rspec --init
 ```
 This creates `.rspec` and `spec/spec_helper.rb` files.
+### File: add line to the .rspec
+```shell
+--format documentation
+```
 
 ## <a name="SinatraSetup">Setting up Rspec for Sanatra</a>
 ```shell
 $ rspec-sinatra init --app <App Name> <Ruby Filename>
 ```
 This creates `<Ruby Filename>` and `config.ru` files.
-
 ### File: <Ruby Filename>
 ```ruby
 require 'sinatra/base'
