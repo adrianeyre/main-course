@@ -1,12 +1,16 @@
 # Ruby Testing Framework (Rspec)
 
+[Setting up Rspec](#RspecSetup) | [Setting up Rspec for Sanatra](#SinatraSetup) | [Gems Required](#Gems)
+[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Week 3](#Week3) | [Week 4](#Week4) |
+
 ## Setting up Rspec
+## <a name="RspecSetup">Setting up Rspec</a>
 ```shell
 $ rspec --init
 ```
 This creates `.rspec` and `spec/spec_helper.rb` files.
 
-## Setting up Rspec for Sanatra
+## <a name="SinatraSetup">Setting up Rspec for Sanatra</a>
 ```shell
 $ rspec-sinatra init --app <App Name> <Ruby Filename>
 ```
@@ -26,7 +30,7 @@ class <App Name> < Sinatra::Base
 end
 ```
 
-## Gems required
+## <a name="Gems">Gems required</a>
 * Rspec
 ```ruby
 gem 'rspec'
@@ -41,7 +45,7 @@ gem 'capybara'
 gem 'selenium-webdriver'
 ```
 
-## Rspec Standard Layout
+## <a name="Layout">Rspec Standard Layout</a>
 ```ruby
 describe <Class Name> do
   describe '#<Method Name>' do
@@ -53,3 +57,5 @@ describe <Class Name> do
   end
 end
 ```
+
+## <a name="Expect">Expect Syntax</a>
