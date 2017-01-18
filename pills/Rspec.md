@@ -40,3 +40,16 @@ gem 'rspec-sinatra'
 gem 'capybara'
 gem 'selenium-webdriver'
 ```
+
+## Rspec Standard Layout
+```ruby
+describe <Class Name> do
+  describe '#<Method Name>' do
+    context 'In what context' do
+      it 'does something' do
+        expect....
+      end
+    end
+  end
+end
+```
