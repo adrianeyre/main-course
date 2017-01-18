@@ -32,7 +32,7 @@ $ git checkout -b <Branch>
 $ git push origin <Branch>
 ```
 
-## Different pair partnet
+## Different pair partner
 ```shell
 $ git checkout <day-one-branch>
 $ git checkout --orphan <day-two-branch-name>
