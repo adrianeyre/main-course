@@ -26,3 +26,17 @@ class <App Name> < Sinatra::Base
 end
 ```
 
+## Gems required
+* Rspec
+```ruby
+gem 'rspec'
+```
+
+Rspec-Sinatra
+```ruby
+gem 'rspec'
+gem 'sinatra'
+gem 'rspec-sinatra'
+gem 'capybara'
+gem 'selenium-webdriver'
+```
