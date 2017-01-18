@@ -13,6 +13,7 @@
 * [Git Pong] (pills/GitPong.md)
 * [Coveralls Help] (pills/Coveralls.md)
 * [SOLID Principles] (pills/solid-OOP_wall-skills.jpg)
+* [Dot Env Help] (https://github.com/codeunion/dotenv-example)
 * [Sinatra] (pills/sinatra.md)
 * [Capybara] (pills/capybara.md)
 
