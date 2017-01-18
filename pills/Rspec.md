@@ -1,6 +1,6 @@
 # Ruby Testing Framework (Rspec)
 
-[Setting up Rspec](#RspecSetup) | [Setting up Rspec for Sanatra](#SinatraSetup) | [Gems Required](#Gems)
+[Setting up Rspec](#RspecSetup) | [Setting up Rspec for Sanatra](#SinatraSetup) | [Gems Required](#Gems) <br>
 [Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Week 3](#Week3) | [Week 4](#Week4) |
 
 ## Setting up Rspec
