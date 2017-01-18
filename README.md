@@ -16,7 +16,6 @@
 * [Dot Env Help] (https://github.com/codeunion/dotenv-example)
 * [Sinatra] (pills/sinatra.md)
 * [Capybara] (pills/capybara.md)
-* [Capybara Cheat Sheet] (https://www.launchacademy.com/codecabulary/learn-test-driven-development/rspec/capybara-cheat-sheet)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
 * Paired Programming Project [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
