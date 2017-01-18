@@ -1,7 +1,7 @@
 # Ruby Testing Framework (Rspec)
 
 [Setting up Rspec](#RspecSetup) | [Setting up Rspec for Sanatra](#SinatraSetup) | [Gems Required](#Gems) <br>
-[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Before Block](#Before) | [Subject and Doubles](#Subject)
+[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Before Block](#Before) | [Subject, Doubles and Stubs](#Subject)
 
 ## <a name="RspecSetup">Setting up Rspec</a>
 ```shell
@@ -87,7 +87,7 @@ before do
 end
 ```
 
-## <a name="Subject">Subject and Doubles</a>
+## <a name="Subject">Subject, Doubles and Stubs</a>
 ```ruby
 subject(:<Class Name>) { described_class.new }
 let(:<Double Name>) { double :<Class Name>, method: result}
