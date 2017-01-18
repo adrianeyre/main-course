@@ -34,13 +34,13 @@ $ click_link 'Start Workout!'
 ```
 
 ## Navigating
-```
+```ruby
 visit('/projects')
 visit(post_comments_path(post))
 ```
 
 ## Clicking links and buttons
-```
+```ruby
 click_link('id-of-link')
 click_link('Link Text')
 click_button('Save')
@@ -49,7 +49,7 @@ click('Button Value')
 ```
 
 ## Interacting with forms
-```
+```ruby
 fill_in('First Name', with: 'John')
 fill_in('Password', with: 'Seekrit')
 fill_in('Description', with: 'Really Long Text…')
@@ -61,7 +61,7 @@ select('Option', from: 'Select Box')
 ```
 
 ## Scoping
-```
+```ruby
 within("//li[@id='employee']") do
   fill_in 'Name', with: 'Jimmy'
 end
@@ -77,7 +77,7 @@ end
 ```
 
 ## Querying
-```
+```ruby
 expect(page).to have_xpath?('//table/tr')
 expect(page).to have_css?('table tr.foo')
 expect(page).to have_content?('foo')
@@ -94,7 +94,7 @@ all('a').each { |a| a[:href] }
 ```
 
 ## Scripting
-```
+```ruby
 result = expect(page).to evaluate_script('4 + 4');
 Asynchronous JavaScript
 click_link('foo')
