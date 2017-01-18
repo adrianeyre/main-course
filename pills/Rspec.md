@@ -1,9 +1,8 @@
 # Ruby Testing Framework (Rspec)
 
 [Setting up Rspec](#RspecSetup) | [Setting up Rspec for Sanatra](#SinatraSetup) | [Gems Required](#Gems) <br>
-[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Week 3](#Week3) | [Week 4](#Week4) |
+[Rspec Standard Layout](#Layout) | [Expect Syntax](#Expect) | [Before Block](#Before) | [Subject and Doubles](#Subject) |
 
-## Setting up Rspec
 ## <a name="RspecSetup">Setting up Rspec</a>
 ```shell
 $ rspec --init
@@ -59,3 +58,25 @@ end
 ```
 
 ## <a name="Expect">Expect Syntax</a>
+```ruby
+expect(subject).to receive(:<method name>)
+expect(subject).to receive(:<method name>).and_return true
+expect(subject.somemethod).to eq 'something'
+expect(subject.somemethod).to > 1
+expect(subject.somemethod).to < 1
+expect(subject.somemethod).to include 'something'
+expect { subject.somemethod }.to raise_error 'error'
+```
+
+## <a name="Before">Before Block</a>
+```ruby
+before do
+  allow(subject).to receive(:<method name>).and_return true
+end
+```
+
+## <a name="Subject">Subject and Doubles</a>
+```ruby
+subject(:<Class Name>) { described_class.new }
+let(:<Double Name>) { double :<Class Name>, method: result}
+```
