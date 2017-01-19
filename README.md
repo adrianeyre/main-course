@@ -14,8 +14,9 @@
 * [Coveralls Help] (pills/Coveralls.md)
 * [SOLID Principles] (pills/solid-OOP_wall-skills.jpg)
 * [Dot Env Help] (https://github.com/codeunion/dotenv-example)
-* [Sinatra] (pills/sinatra.md)
-* [Capybara] (pills/capybara.md)
+* [Sinatra Help] (pills/sinatra.md)
+* [Capybara Help] (pills/capybara.md)
+* [Codewars Examples] (https://github.com/adrianeyre/codewars)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
 * Paired Programming Project [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
