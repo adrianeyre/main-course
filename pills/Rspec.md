@@ -108,3 +108,9 @@ let(:<Double Name>) { double :<Class Name>, method: result}
 let(:<Double Name>) { double :<Class Name, :variable= => result}
 variable = subject.instance_variable_get(:@variable)
 ```
+
+### Double that checks a real Class for its methods (but doesnt use them)
+```ruby
+require "RealClassNameFile"
+let(:<Double Name>) { instance_double("ClassName") }
+```
