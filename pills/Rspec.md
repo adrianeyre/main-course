@@ -60,6 +60,15 @@ describe <Class Name> do
 end
 ```
 
+## Rspec Capybara Feature Layout
+```ruby
+feature "Feature details" do
+  scenario "Scenario details" do
+    expect(page)....
+  end
+end
+```
+
 ## <a name="Expect">Expect Syntax</a>
 ```ruby
 expect(subject).to receive(:<method name>)
