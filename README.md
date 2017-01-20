@@ -28,7 +28,7 @@
 
 ## <a name="Week3">Week 3 - Welcome to the web</a>
 * Paired Programming Project [Battle] (https://github.com/adrianeyre/battle)
-* Solo Weekend Project
+* Solo Weekend Project [Rock, Paper, Scissors] (https://github.com/adrianeyre/rps-challenge)
 
 ## <a name="Week4">Week 4 - Databases</a>
 
