@@ -31,8 +31,8 @@ $ psql
 ### Tables
 ```
 CREATE table table_name(                # Creates table 'table_name'
-id serial PRIMARY KEY,                  # Creates id as Primary Key and uses the serial (increment +1) constraint
-column_2_name data_type_for_column_2);  # Creates column 'column_1'
+id serial PRIMARY KEY,                  # Creates id as Primary Key and uses the serial constraint
+column_2_name data_type_for_column_2);  # Creates column 'column_2_name'
 ```
 
 `DROP table_name;` = Deletes table
