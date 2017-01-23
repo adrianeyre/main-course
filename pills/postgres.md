@@ -18,6 +18,7 @@ $ psql
 \l = List database
 \d = List columns on table
 \dt = List tables in connected database
+\d table_name = List columns in table
 \c database_name = Switch to different database
 
 create database "name_of_database";
