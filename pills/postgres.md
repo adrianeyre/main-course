@@ -39,10 +39,6 @@ $ psql
 
 ## <a name="IRB">Testing postgres in IRB</a>
 ```shell
-$ irb
-```
-
-```shell
 require 'dm-migrations'
 require 'data_mapper'
 require 'dm-postgres-adapter'
