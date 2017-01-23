@@ -1,4 +1,4 @@
-# Postgres
+# Postgres Help
 
 * [Install Postgres] (#Install)
 * [Run Postgres] (#Run)
