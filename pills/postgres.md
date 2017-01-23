@@ -1,4 +1,4 @@
-# Postgres Help
+# Postgres and DataMapper Help
 
 * [Install Postgres] (#Install)
 * [Run Postgres] (#Run)
