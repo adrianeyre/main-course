@@ -1,18 +1,25 @@
 # Postgres
 
-## Install postgres
+* [Install Postgres] (#Install)
+* [Run Postgres] (#Run)
+* [Postgres Command] (#PCommands)
+* [DataMapper Command] (#DCommands)
+* [Testing postgres in IRB] (#IRB)
+* [Basic SQL Commands] (#SQL)
+
+## <a name="Install">Install Postgres</a>
 ```shell
 $ brew install postgresql
 $ ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
 $ launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
 ```
 
-## Run postgres
+## <a name="Run">Run Postgres</a>
 ```shell
 $ psql
 ```
 
-## Postgres Command
+## <a name="PCommands">Postgres Command</a>
 `\q` = Quit
 
 `\l` = List database
@@ -27,10 +34,10 @@ $ psql
 
 `create database "name_of_database";` = Creates a database
 
-## DataMapper Commands
+## <a name="DCommands">DataMapper Commands</a>
 `Class_Name.create(Method_Name: "Data")` = Inserts data into database
 
-## Testing postgres in IRB
+## <a name="IRB">Testing postgres in IRB</a>
 ```ruby
 irb
 
@@ -56,7 +63,7 @@ DataMapper.finalize
 DataMapper.auto_upgrade!
 ```
 
-## Basic SQL Commands
+## <a name="SQL">Basic SQL Commands</a>
 ### Database
 `CREATE DATABASE database_name` = Creates a new database
 
