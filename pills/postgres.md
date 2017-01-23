@@ -12,7 +12,7 @@ $ launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
 $ psql
 ```
 
-## Command
+## Postgres Command
 `\q` = Quit
 
 `\l` = List database
@@ -26,6 +26,35 @@ $ psql
 `\c database_name` = Switch to different database
 
 `create database "name_of_database";` = Creates a database
+
+## DataMapper Commands
+`Class_Name.create(Method_Name: "Data")` = Inserts data into database
+
+## Testing postgres in IRB
+```ruby
+irb
+
+require 'dm-migrations'
+require 'data_mapper'
+require 'dm-postgres-adapter'
+
+DataMapper::Logger.new($stdout, :debug)  # => Sets the debugging to the output
+
+DataMapper.setup(:default, "postgres://localhost/DATABASE_NAME")  #=> Sets database connection
+
+class Student
+  # Give the class some database-interaction superpowers
+  include DataMapper::Resource
+
+  # Tell the class which columns exist in the student table
+  property :id,     Serial
+  property :name,   String
+end
+
+DataMapper.finalize
+
+DataMapper.auto_upgrade!
+```
 
 ## Basic SQL Commands
 ### Database
