@@ -16,8 +16,8 @@ $ psql
 ```
 \q = Quit
 \l = List database
-\d = List tables
-\dt = List relationships
+\d = List relationships
+\dt = List tables
 \c database_name = Switch to different database
 
 create database "name_of_database";
