@@ -30,9 +30,9 @@ $ psql
 ## Basic SQL Commands
 ### Tables
 ```
-CREATE table table_name(             # Creates table 'table_name'
-id serial PRIMARY KEY,                 # Creates id as Primary Key and uses the serial (increment +1) constraint
-column_2_name data_type_for_column_1);  # Creates column 'column_1'
+CREATE table table_name(                # Creates table 'table_name'
+id serial PRIMARY KEY,                  # Creates id as Primary Key and uses the serial (increment +1) constraint
+column_2_name data_type_for_column_2);  # Creates column 'column_1'
 ```
 
 `DROP table_name;` = Deletes table
