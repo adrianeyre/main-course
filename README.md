@@ -32,6 +32,8 @@
 * Solo Weekend Project [Rock, Paper, Scissors Challenege] (https://github.com/adrianeyre/rps-challenge)
 
 ## <a name="Week4">Week 4 - Databases</a>
+* Paired Programming Project [Bookmark Manager] (https://github.com/adrianeyre/bookmark-manager)
+* Solo Weekend Project
 
 ## <a name="Week5">Week 5 - Intro to Javascript</a>
 
