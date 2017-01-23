@@ -38,9 +38,11 @@ $ psql
 `Class_Name.create(Method_Name: "Data")` = Inserts data into database
 
 ## <a name="IRB">Testing postgres in IRB</a>
-```ruby
-irb
+```shell
+$ irb
+```
 
+```shell
 require 'dm-migrations'
 require 'data_mapper'
 require 'dm-postgres-adapter'
