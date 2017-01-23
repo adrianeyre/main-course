@@ -13,13 +13,12 @@ $ psql
 ```
 
 ## Command
-```
-\q = Quit
-\l = List database
-\d = List columns on table
-\dt = List tables in connected database
-\d table_name = List columns in table
-\c database_name = Switch to different database
+`\q` = Quit
+`\l` = List database
+`\d` = List columns on table
+`\dt` = List tables in connected database
+`\d table_name`= List columns in table
+`\c database_name` = Switch to different database
 
-create database "name_of_database";
+`create database "name_of_database";` = Creates a database
 ```
