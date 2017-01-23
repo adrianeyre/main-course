@@ -37,8 +37,10 @@ id serial PRIMARY KEY,                       # Creates id as Primary Key and use
 
 `DROP table_name` = Deletes table
 
-# Search Data
+### Search Data
 `SELECT * FROM table WHERE column = 'search';`
 
-# Insert Data
+### Data Manipulation
 `INSERT INTO table_name (column1, column2,...) VALUES (value_1, value_2,....)` Inserts data into columns
+
+`UPDATE table_name SET column_name_1 = new_value_1, column_name_2 = new_value_2` Updates data into columns
