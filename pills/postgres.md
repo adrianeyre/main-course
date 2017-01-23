@@ -26,3 +26,19 @@ $ psql
 `\c database_name` = Switch to different database
 
 `create database "name_of_database";` = Creates a database
+
+## Basic SQL Commands
+### Tables
+```
+CREATE table "table_name"(                   # Creates table 'table_name'
+id serial PRIMARY KEY,                       # Creates id as Primary Key and uses the serial (increment +1) constraint
+"column_2" "data_type_for_column_1");        # Creates column 'column_1'
+```
+
+`DROP table_name` = Deletes table
+
+# Search Data
+`SELECT * FROM table WHERE column = 'search';`
+
+# Insert Data
+`INSERT INTO table_name (column1, column2,...) VALUES (value_1, value_2,....)` Inserts data into columns
