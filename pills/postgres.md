@@ -43,9 +43,9 @@ require 'dm-migrations'
 require 'data_mapper'
 require 'dm-postgres-adapter'
 
-DataMapper::Logger.new($stdout, :debug)  # => Sets the debugging to the output
+DataMapper::Logger.new($stdout, :debug)  # Sets the debugging to the output
 
-DataMapper.setup(:default, "postgres://localhost/DATABASE_NAME")  #=> Sets database connection
+DataMapper.setup(:default, "postgres://localhost/DATABASE_NAME")  # Sets database connection
 
 class Student
   # Give the class some database-interaction superpowers
