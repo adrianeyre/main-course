@@ -35,7 +35,9 @@ id serial PRIMARY KEY,                       # Creates id as Primary Key and use
 "column_2" "data_type_for_column_1");        # Creates column 'column_1'
 ```
 
-`DROP table_name` = Deletes table
+`DROP table_name;` = Deletes table
+
+`ALTER TABLE table_name ADD column_name datatype;` = Add a column to table
 
 ### Select
 `SELECT * FROM table WHERE column = 'search';` = Select all from table that equals 'search'
