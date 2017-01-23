@@ -32,7 +32,9 @@ $ psql
 
 `\c database_name` = Switch to different database
 
-`create database "name_of_database";` = Creates a database
+`create database name_of_database;` = Creates a database
+
+`drop database name_of_database;` = Deletes a database
 
 ## <a name="DCommands">DataMapper Commands</a>
 `Class_Name.create(Method_Name: "Data")` = Inserts data into database
