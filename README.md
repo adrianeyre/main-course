@@ -16,7 +16,7 @@
 * [Dot Env Help] (https://github.com/codeunion/dotenv-example)
 * [Sinatra Help] (pills/sinatra.md)
 * [Capybara Help] (pills/capybara.md)
-* [Postgres Help] (pills/postgres.md)
+* [Postgres and DataMapper Help] (pills/postgres.md)
 * [Codewars Examples] (https://github.com/adrianeyre/codewars)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
