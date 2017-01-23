@@ -28,6 +28,11 @@ $ psql
 `create database "name_of_database";` = Creates a database
 
 ## Basic SQL Commands
+### Database
+`CREATE DATABASE database_name` = Creates a new database
+
+`DROP DATABASE database_name` = Deletes a database
+
 ### Tables
 ```
 CREATE table table_name(                # Creates table 'table_name'
