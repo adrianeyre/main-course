@@ -3,8 +3,6 @@
 * [Install Postgres] (#Install)
 * [Run Postgres] (#Run)
 * [Postgres Command] (#PCommands)
-* [DataMapper Command] (#DCommands)
-* [Testing postgres in IRB] (#IRB)
 * [Basic SQL Commands] (#SQL)
 
 ## <a name="Install">Install Postgres</a>
@@ -35,30 +33,6 @@ $ psql
 `create database name_of_database;` = Creates a database
 
 `drop database name_of_database;` = Deletes a database
-
-## <a name="IRB">Testing postgres in IRB</a>
-```ruby
-require 'dm-migrations'
-require 'data_mapper'
-require 'dm-postgres-adapter'
-
-DataMapper::Logger.new($stdout, :debug)  # Sets the debugging to the output
-
-DataMapper.setup(:default, "postgres://localhost/DATABASE_NAME")  # Sets database connection
-
-class Student
-  # Give the class some database-interaction superpowers
-  include DataMapper::Resource
-
-  # Tell the class which columns exist in the student table
-  property :id,     Serial
-  property :name,   String
-end
-
-DataMapper.finalize
-
-DataMapper.auto_upgrade!
-```
 
 ## <a name="SQL">Basic SQL Commands</a>
 ### Database
