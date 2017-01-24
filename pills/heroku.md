@@ -14,4 +14,4 @@ $ git push heroku branch_name:master
 ```shell
 $ heroku addons:create heroku-postgresql:hobby-dev
 ```
-Use `ENV['DATABASE_URL']` in your app to retreive database name
+Use `ENV['DATABASE_URL']` in your app to retrieve database name
