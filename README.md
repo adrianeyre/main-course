@@ -16,7 +16,8 @@
 * [Dot Env Help] (https://github.com/codeunion/dotenv-example)
 * [Sinatra Help] (pills/sinatra.md)
 * [Capybara Help] (pills/capybara.md)
-* [Postgres and DataMapper Help] (pills/postgres.md)
+* [Postgres Help] (pills/postgres.md)
+* [DataMapper Help] (pills/datamapper.md)
 * [Heroku Help] (pills/heroku.md)
 * [Codewars Examples] (https://github.com/adrianeyre/codewars)
 
