@@ -1,4 +1,4 @@
-# Postgres and DataMapper Help
+# Postgres and SQL Help
 
 * [Install Postgres] (#Install)
 * [Run Postgres] (#Run)
@@ -35,14 +35,6 @@ $ psql
 `create database name_of_database;` = Creates a database
 
 `drop database name_of_database;` = Deletes a database
-
-## <a name="DCommands">DataMapper Commands</a>
-`Class_Name.create(Method_Name: "Data")` = Inserts data into database
-
-```
-student = Class_Name.first(Method_Name: 'Data')  # Deletes result of student
-student.destroy
-```
 
 ## <a name="IRB">Testing postgres in IRB</a>
 ```ruby
