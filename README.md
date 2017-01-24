@@ -17,6 +17,7 @@
 * [Sinatra Help] (pills/sinatra.md)
 * [Capybara Help] (pills/capybara.md)
 * [Postgres and DataMapper Help] (pills/postgres.md)
+* [Heroku Help] (pills/heroku.md)
 * [Codewars Examples] (https://github.com/adrianeyre/codewars)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
