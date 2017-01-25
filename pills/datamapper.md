@@ -9,6 +9,8 @@
 
 `Class_Name.first_or_create(Method_Name: "Data")` = Insert data if it doesnt already exist in the database
 
+`Class_Name.update(Method_Name: "Data")` = Updates database entry
+
 ```
 student = Class_Name.first(Method_Name: 'Data')  # Deletes result of student
 student.destroy
