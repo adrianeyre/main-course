@@ -30,10 +30,6 @@ $ psql
 
 `\c database_name` = Switch to different database
 
-`create database name_of_database;` = Creates a database
-
-`drop database name_of_database;` = Deletes a database
-
 ## <a name="SQL">Basic SQL Commands</a>
 ### Database
 `CREATE DATABASE database_name` = Creates a new database
