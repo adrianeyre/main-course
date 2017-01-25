@@ -53,8 +53,8 @@ column_2_name data_type_for_column_2);  # Creates column 'column_2_name'
 `SELECT DISTINCT column_name(s) FROM table_name;` = Select unique values from table
 
 ### Data Manipulation
-`INSERT INTO table_name (column1, column2,...) VALUES (value_1, value_2,....)` Inserts data into columns
+`INSERT INTO table_name (column1, column2,...) VALUES (value_1, value_2,....);` Inserts data into columns
 
-`UPDATE table_name SET column_name_1 = new_value_1 WHERE column_name_1 = 'something'` Updates data into columns
+`UPDATE table_name SET column_name_1 = new_value_1 WHERE column_name_1 = 'something';` Updates data into columns
 
-`DELETE FROM table_name WHERE column_name = some_value` = Delete data from table
+`DELETE FROM table_name WHERE column_name = some_value;` = Delete data from table
