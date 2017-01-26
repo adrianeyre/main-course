@@ -11,6 +11,8 @@
 
 `Class_Name.update(Method_Name: "Data")` = Updates database entry
 
+`Class_Name.authenticate(UserName, Password)` = Authenticates user
+
 ```
 student = Class_Name.first(Method_Name: 'Data')  # Deletes result of student
 student.destroy
