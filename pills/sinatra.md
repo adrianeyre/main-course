@@ -52,14 +52,14 @@ I have no name!
 ```
 
 ## Settings
+`enable :sessions` = enables sessions
+
+`set :session_secret, 'super secret'` = Sets the sessions to super secret
+
 `set :views, File.dirname(__FILE__) + '/views'` = Change views folder
 
 `set :port, 9494` = Set default port
 
 `register Sinatra::Flash` = Set up the Flash feature
 
-`enable :sessions` = enables sessions
-
 `use Rack::MethodOverride` = Allows you to have a hidden text field `name="_method" value="delete"`
-
-`set :session_secret, 'super secret'` = Sets the sessions to super secret
