@@ -7,7 +7,7 @@ $ heroku login
 
 $ heroku git:remote -a name_of_application
 
-$ git push heroku branch_name:master
+$ git push heroku branch_name:master -f
 ```
 
 ## Create a postgres database on Heroku
