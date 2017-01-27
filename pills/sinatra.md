@@ -50,3 +50,16 @@ I have no name!
   <center><img src='http://bit.ly/1eze8aE'></center>
 </div>
 ```
+
+## Settings
+`set :views, File.dirname(__FILE__) + '/views'` = Change views folder
+
+`set :port, 9494` = Set default port
+
+`register Sinatra::Flash` = Set up the Flash feature
+
+`enable :sessions` = enables sessions
+
+`use Rack::MethodOverride` = Allows you to have a hidden text field `name="_method" value="delete"`
+
+`set :session_secret, 'super secret'` = Sets the sessions to super secret
