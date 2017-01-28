@@ -35,7 +35,7 @@
 
 ## <a name="Week4">Week 4 - Databases</a>
 * Paired Programming Project [Bookmark Manager] (https://github.com/adrianeyre/bookmark-manager)
-* Solo Weekend Project
+* Solo Weekend Project [Chitter] (https://github.com/adrianeyre/chitter-challenge)
 
 ## <a name="Week5">Week 5 - Intro to Javascript</a>
 
