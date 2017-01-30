@@ -38,6 +38,8 @@
 * Solo Weekend Project [Chitter Challenge] (https://github.com/adrianeyre/chitter-challenge)
 
 ## <a name="Week5">Week 5 - Intro to Javascript</a>
+* Paired Programming Project 1 [FizzBuzz in Javascript] (https://github.com/adrianeyre/fizzbuzzJS)
+* Paired Programming Project 2 [Airport Challenge in Javascript] (https://github.com/adrianeyre/airport-challengeJS)
 
 ## <a name="Week6">Week 6 - MakersBnB</a>
 
