@@ -23,7 +23,7 @@
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
 * Paired Programming Project [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
-* Solo Weekend Project [Airport Challenge] (https://github.com/adrianeyre/airport_challenge)
+* Solo Weekend Project [Airport Challenge] (https://github.com/adrianeyre/airport-challenge)
 
 ## <a name="Week2">Week 2 - Further Object Oriented Design</a>
 * Paired Programming Project [Oystercard] (https://github.com/adrianeyre/oystercard)
