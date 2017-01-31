@@ -40,6 +40,7 @@
 ## <a name="Week5">Week 5 - Intro to Javascript</a>
 * Paired Programming Project 1 [FizzBuzz in Javascript] (https://github.com/adrianeyre/fizzbuzz-JS)
 * Paired Programming Project 2 [Airport Challenge in Javascript] (https://github.com/adrianeyre/airport-challenge-JS)
+* Paired Programming Project 3 [Thermostat API and JQuery] (https://github.com/adrianeyre/thermostat)
 
 ## <a name="Week6">Week 6 - MakersBnB</a>
 
