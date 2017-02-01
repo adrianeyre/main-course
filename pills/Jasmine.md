@@ -1,7 +1,7 @@
 # Jasmine Test Framework
 
 ## Test Example
-```
+```javascript
 describe("Description of the test", function() {
   beforeEach(function() {
 
@@ -66,18 +66,18 @@ describe("Description of the test", function() {
 ##
 
 ## Stubbing functions
-```
+```javascript
 spyOn(function, "functionName").and.returnValue(value);
 ```
-```
+```javascript
 spyOn(function, 'functionName').and.callThrough();
 ```
-```
+```javascript
 spyOn(function, "functionName").and.callFake(function(arguments, can, be, received);
 ```
-```
+```javascript
 spyOn(function, "functionName").and.throwError("error");
 ```
-```
+```javascript
 tape = jasmine.createSpyObj('tape', ['play', 'pause', 'stop', 'rewind']);
 ```
