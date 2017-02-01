@@ -4,22 +4,27 @@
 [Week 7](#Week7) | [Week 8](#Week8) | [Week 9](#Week9) | [Week 10](#Week10) | [Week 11-12](#Week1112)
 
 ## General Documents
-
 * [Pre-Course Material] (https://github.com/adrianeyre/pre-course)
 * [Command Line Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Terminal/Terminal-Help.md)
 * [Git Hub Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Git/Git-Help.md)
-* [Rspec Help] (pills/Rspec.md)
 * [Gem Help] (https://github.com/adrianeyre/pre-course/blob/master/Week1/Ruby/Gems.md)
 * [Git Pong] (pills/GitPong.md)
 * [Coveralls Help] (pills/Coveralls.md)
 * [SOLID Principles] (pills/solid-OOP_wall-skills.jpg)
 * [Dot Env Help] (https://github.com/codeunion/dotenv-example)
-* [Sinatra Help] (pills/sinatra.md)
-* [Capybara Help] (pills/capybara.md)
-* [Postgres and SQL Help] (pills/postgres.md)
-* [DataMapper Help] (pills/datamapper.md)
 * [Heroku Help] (pills/heroku.md)
 * [Codewars Examples] (https://github.com/adrianeyre/codewars)
+
+## Test Frameworks
+* [Rspec Framework] (pills/Rspec.md)
+* [Capybara Framework] (pills/capybara.md)
+* [Jasmine Framework] (pills/Jasmine.md)
+
+## Frameworks
+* [Sinatra Help] (pills/sinatra.md)
+* [Postgres and SQL Help] (pills/postgres.md)
+* [DataMapper Help] (pills/datamapper.md)
+* [JQuery Help] (JQuery.md)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
 * Paired Programming Project [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
