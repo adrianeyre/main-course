@@ -66,8 +66,12 @@ describe("Description of the test", function() {
 ##
 
 ## Stubbing functions
-```spyOn(function, "functionName").and.returnValue(value)```
-
-```spyOn(function, 'functionName').and.callThrough()```
-
-```spyOn(function, "functionName").and.callFake(function(arguments, can, be, received)```
+```
+spyOn(function, "functionName").and.returnValue(value)
+```
+```
+spyOn(function, 'functionName').and.callThrough()
+```
+```
+spyOn(function, "functionName").and.callFake(function(arguments, can, be, received)
+```
