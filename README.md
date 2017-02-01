@@ -24,7 +24,7 @@
 * [Sinatra Help] (pills/sinatra.md)
 * [Postgres and SQL Help] (pills/postgres.md)
 * [DataMapper Help] (pills/datamapper.md)
-* [JQuery Help] (JQuery.md)
+* [JQuery Help] (pills/JQuery.md)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
 * Paired Programming Project [Boris Bikes] (https://github.com/adrianeyre/boris-bikes)
