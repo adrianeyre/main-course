@@ -13,11 +13,6 @@ describe("Description of the test", function() {
 });
 ```
 
-## Stubbing functions
-```
-spyOn(function, "functionName").and.returnValue(value);
-```
-
 ## Expect syntax
 `.toBe(true)` = To be true/false<br>
 `.not.toBe(true)` = To not be true/false<br>
@@ -69,3 +64,10 @@ spyOn(function, "functionName").and.returnValue(value);
 `.toHaveBeenCalledWith(value)` = function has been called with value<br>
 `.not.toHaveBeenCalledWith(value)` = function has not been called with value<br>
 ##
+
+## Stubbing functions
+```spyOn(function, "functionName").and.returnValue(value)```
+
+```spyOn(function, 'functionName').and.callThrough()```
+
+```spyOn(function, "functionName").and.callFake(function(arguments, can, be, received)```
