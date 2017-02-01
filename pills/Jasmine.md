@@ -16,13 +16,13 @@ describe("Description of the test", function() {
 ## Expect syntax
 `.toBe(true)` = To be true/false<br>
 `.not.toBe(true)` = To not be true/false<br>
-
+##
 `.toEqual("result")` = To equal result<br>
 `.not.toEqual("result")` = To not equal result<br>
-
+##
 `.toContain(item)` = To contain item<br>
 `.not.toContain(item)` To not contain item<br>
-
+##
 `.toMatch(/item/)` = To match item<br>
 `.not.toMatch(/bar/)` = To not match item<br>
 
