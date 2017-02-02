@@ -14,3 +14,7 @@ $(document).ready(function(){
 `$('#idName').text("New Text")` = change text for the id `idName`<br>
 
 `$("#idDropDownList").val("value")` = change value of the dropdown list `idDropDownList`<br>
+
+`$('#idName').attr('class', "New Class")` = change the CSS for `idName` to `New Class`<br>
+
+`$('#idName').css('border', '1px solid #e8e8e8')` = assign CSS for `idName`<br>
