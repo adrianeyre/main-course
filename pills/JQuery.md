@@ -29,3 +29,9 @@ $("#buttonId").click(function(){
   // Code
 });
 ```
+* Get Statment
+```
+$.get('http://api' , function(data){
+  // Code
+  });
+ ```
