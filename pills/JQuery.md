@@ -10,6 +10,15 @@ $(document).ready(function(){
 })
 ```
 
+## Object selection
+```
+$("p") // selects all the paragraph elements
+$("#foo") // selects the element with the id foo
+$(".bar") // selects all the elements in the bar class
+$("[src]") // selects all the elements with a src attribute
+$("tr:even") // selects all the even
+```
+
 ## HTML interaction
 `$('#idName').text("New Text")` = change text for the id `idName`<br>
 
