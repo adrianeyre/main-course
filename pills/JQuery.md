@@ -18,3 +18,14 @@ $(document).ready(function(){
 `$('#idName').attr('class', "New Class")` = change the CSS for `idName` to `New Class`<br>
 
 `$('#idName').css('border', '1px solid #e8e8e8')` = assign CSS for `idName`<br>
+
+`$("#idName").hide()` = hide `idName`<br>
+
+## Check for events
+
+* Click events
+```
+$("#buttonId").click(function(){
+  // Code
+});
+```
