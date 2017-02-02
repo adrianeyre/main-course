@@ -33,5 +33,15 @@ $("#buttonId").click(function(){
 ```
 $.get('http://api' , function(data){
   // Code
-  });
+});
  ```
+* Get JSON Statment
+```
+$.getJSON("http://api", function(result){
+  // Code
+});
+```
+* Post Statment
+```
+$.post("http://api",{"city":city, "key":value})
+```
