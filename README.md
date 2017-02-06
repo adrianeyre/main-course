@@ -46,8 +46,10 @@
 * Paired Programming Project 1 [FizzBuzz in Javascript] (https://github.com/adrianeyre/fizzbuzz-JS)
 * Paired Programming Project 2 [Airport Challenge in Javascript] (https://github.com/adrianeyre/airport-challenge-JS)
 * Paired Programming Project 3 [Thermostat API and JQuery] (https://github.com/adrianeyre/thermostat)
+* Solo Weekend Project [Bowling Challenge] (https://github.com/adrianeyre/bowling-challenge)
 
 ## <a name="Week6">Week 6 - MakersBnB</a>
+* Team Project [Makers BnB] ()
 
 ## <a name="Week7">Week 7 - Further JavaScript</a>
 
