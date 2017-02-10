@@ -49,7 +49,7 @@
 * Solo Weekend Project [Bowling Challenge] (https://github.com/adrianeyre/bowling-challenge)
 
 ## <a name="Week6">Week 6 - MakersBnB</a>
-* Team Project [Makers BnB] (https://github.com/samjones1001/makersbnb/)
+* Team Project [Makers BnB] (https://github.com/adrianeyre/makersbnb/)
 
 ## <a name="Week7">Week 7 - Further JavaScript</a>
 
