@@ -30,6 +30,8 @@ $("tr:even") // selects all the even
 
 `$("#idName").hide()` = hide `idName`<br>
 
+`$("#idName").show()` = show `idName`<br>
+
 `$("p").addClass("#idName")` = adds the class to `idName`<br>
 
 ## Check for events
