@@ -52,7 +52,8 @@
 * Group Programming Project [Makers BnB] (https://github.com/adrianeyre/makersbnb/)
 
 ## <a name="Week7">Week 7 - Further JavaScript</a>
-* Group Programming Project [Note App] ()
+* Group Programming Project [Note] ()
+* Group Programming Project [News] ()
 
 ## <a name="Week8">Week 8 - Intro to Rails</a>
 
