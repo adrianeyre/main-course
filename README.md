@@ -52,8 +52,8 @@
 * Group Programming Project [Makers BnB] (https://github.com/adrianeyre/makersbnb/)
 
 ## <a name="Week7">Week 7 - Further JavaScript</a>
-* Group Programming Project [Notes] (https://github.com/adrianeyre/notes-app)
-* Group Programming Project [News] ()
+* Group Programming Project [Notes App] (https://github.com/adrianeyre/notes-app)
+* Group Programming Project [News App] (https://github.com/adrianeyre/news-app)
 * Solo Weekend Challenge [Ruby Refresh] (https://github.com/adrianeyre/ruby-refresher)
 
 ## <a name="Week8">Week 8 - Intro to Rails</a>
