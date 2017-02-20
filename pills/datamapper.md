@@ -11,6 +11,10 @@
 
 `Class_Name.update(Method_Name: "Data")` = Updates database entry
 
+`Class_Name.find(Method_Name: "Data")` = Find database entry
+
+`Class_Name.where(Method_Name: "Data")` = Find database entry using where
+
 `Class_Name.authenticate(UserName, Password)` = Authenticates user
 
 ```
