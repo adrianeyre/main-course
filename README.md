@@ -57,6 +57,7 @@
 * Solo Weekend Challenge [Ruby Refresh] (https://github.com/adrianeyre/ruby-refresher)
 
 ## <a name="Week8">Week 8 - Intro to Rails</a>
+* Paired Programming Project [Yelp] (https://github.com/adrianeyre/yelp)
 
 ## <a name="Week9">Week 9 - Practice project week</a>
 
