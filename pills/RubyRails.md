@@ -12,3 +12,9 @@ $ gem install rails
 `$ bin/rake db:migrate` = Updates database schema<br>
 `$ bin/rake db:purge RAILS_ENV=test` = Updates test database schema<br>
 
+# Create New Controller
+`$ bin/rails g controller <name>` where name is the name of the controller
+
+# Create New Model
+`$ bin/rails g model <name> <column name>:<type>` where name is the name of the model
+
