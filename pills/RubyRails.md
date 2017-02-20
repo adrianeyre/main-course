@@ -34,7 +34,7 @@ $ gem install rails
 `params.require(:<table>).permit(:<column>)`
 
 # Create database dependancy
-```code
+```ruby
 class <Main Table> < ActiveRecord::Base
   has_many :<second table>, dependent: :destroy
 end
