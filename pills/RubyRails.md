@@ -8,6 +8,9 @@ $ gem install rails
 # Rspec installation for Rails
 `$ bin/rails generate rspec:install`
 
+# Run Rails Server
+` bin/rails server`
+
 # Rake files
 `$ bin/rake db:create` = Creates database<br>
 `$ bin/rake db:purge` = Deletes database<br>
