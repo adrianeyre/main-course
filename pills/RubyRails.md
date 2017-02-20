@@ -35,7 +35,7 @@ $ gem install rails
 
 # Create database dependancy
 ```ruby
-class <Main Table> < ActiveRecord::Base
-  has_many :<second table>, dependent: :destroy
+class Main_Table < ActiveRecord::Base
+  has_many :second_table, dependent: :destroy
 end
 ```
