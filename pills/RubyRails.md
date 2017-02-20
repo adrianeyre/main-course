@@ -14,7 +14,7 @@ $ gem install rails
 `$ bin/rake db:purge RAILS_ENV=test` = Deletes test database<br>
 `$ bin/rake db:migrate` = Updates database schema<br>
 `$ bin/rake db:purge RAILS_ENV=test` = Updates test database schema<br>
-`$ bin/rake routes` = Diosplay RESTful routes
+`$ bin/rake routes` = Display RESTful routes
 
 # Create New Controller
 `$ bin/rails g controller <name>` where name is the name of the controller
