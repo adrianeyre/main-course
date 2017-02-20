@@ -12,11 +12,16 @@ $ gem install rails
 ` bin/rails server`
 
 # Rake files
-`$ bin/rake db:create` = Creates database<br>
-`$ bin/rake db:purge` = Deletes database<br>
-`$ bin/rake db:purge RAILS_ENV=test` = Deletes test database<br>
-`$ bin/rake db:migrate` = Updates database schema<br>
-`$ bin/rake db:purge RAILS_ENV=test` = Updates test database schema<br>
+`$ bin/rake db:create` = Creates database
+
+`$ bin/rake db:purge` = Deletes database
+
+`$ bin/rake db:purge RAILS_ENV=test` = Deletes test database
+
+`$ bin/rake db:migrate` = Updates database schema
+
+`$ bin/rake db:purge RAILS_ENV=test` = Updates test database schema
+
 `$ bin/rake routes` = Display RESTful routes
 
 # Create New Controller
