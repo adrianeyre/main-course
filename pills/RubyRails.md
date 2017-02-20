@@ -24,3 +24,6 @@ $ gem install rails
 
 # Create New Model
 `$ bin/rails g model <name> <column name>:<type>` where name is the name of the model
+
+# Permit params
+`params.require(:<table>).permit(:<column>)`
