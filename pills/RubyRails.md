@@ -41,4 +41,4 @@ end
 ```
 
 # Database validation
-`validates :<column>, length: { minimum: 3 }` = validates column length to a minimum of 3
+`validates :<column>, length: { minimum: 3 }, uniqueness: true` = validates column length to a minimum of 3
