@@ -39,3 +39,6 @@ class Main_Table < ActiveRecord::Base
   has_many :second_table, dependent: :destroy
 end
 ```
+
+# Database validation
+`validates :<column>, length: { minimum: 3 }` = validates column length to a minimum of 3
