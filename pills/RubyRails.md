@@ -47,7 +47,7 @@ end
 
 # Devise - User setup
 Add the `gem 'devise'` gem in the `gemfile`
-```ruby
+```shell
 $ bin/rails g devise:install    # Installed devise
 $ bin/rails g devise User       # Creates user model
 $ rake db:migrate               # Updates database schema
