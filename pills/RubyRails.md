@@ -44,3 +44,11 @@ end
 `validates :<column>, length: { minimum: 3 }, uniqueness: true` = validates column length to a minimum of 3
 
 `validates :<column>, inclusion: (1..5)` = validates range
+
+# Devise - User setup
+Add the `gem 'devise'` gem in the `gemfile`
+```ruby
+$ bin/rails g devise:install    # Installed devise
+$ bin/rails g devise User       # Creates user model
+$ rake db:migrate               # Updates database schema
+```
