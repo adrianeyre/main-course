@@ -59,6 +59,7 @@
 
 ## <a name="Week8">Week 8 - Intro to Rails</a>
 * Paired Programming Project [Yelp] (https://github.com/adrianeyre/yelp)
+* Solo Weekend Project [Instagram] (https://github.com/adrianeyre/instagram-challenge)
 
 ## <a name="Week9">Week 9 - Practice project week</a>
 
