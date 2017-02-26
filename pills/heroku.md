@@ -42,3 +42,7 @@ end
 ```shell
 $ heroku run rake db:auto_upgrade
 ```
+### Upload an environment key
+```shell
+$ heroku config:set KEY_NAME=VARIABLE
+```
