@@ -62,7 +62,7 @@
 * Solo Weekend Project [Instagram] (https://github.com/adrianeyre/instagram-challenge)
 
 ## <a name="Week9">Week 9 - Practice project week</a>
-* Group Programming Project [AtomicWars] ()
+* Group Programming Project [AtomicWars] (https://github.com/adrianeyre/Atomic-Wars)
 
 ## <a name="Week10">Week 10 - Individual challenges (tech test week)</a>
 
