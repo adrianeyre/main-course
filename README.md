@@ -65,5 +65,6 @@
 * Group Programming Project [AtomicWars] (https://github.com/adrianeyre/Atomic-Wars)
 
 ## <a name="Week10">Week 10 - Individual challenges (tech test week)</a>
+* Solo Tech Test [Database Tech Test] (https://github.com/adrianeyre/database-tech-test)
 
 ## <a name="Week1112">Week 11-12 - Final Projects</a>
