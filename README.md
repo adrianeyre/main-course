@@ -67,5 +67,6 @@
 ## <a name="Week10">Week 10 - Individual challenges (tech test week)</a>
 * Solo Tech Test [Database Tech Test] (https://github.com/adrianeyre/database-tech-test)
 * Solo Tech Test [Gilded Rose Tech Test] (https://github.com/adrianeyre/gilded-rose-tech-test)
+* Solo Tech Test [Bank Tech Test] (https://github.com/adrianeyre/bank-tech-test)
 
 ## <a name="Week1112">Week 11-12 - Final Projects</a>
