@@ -68,5 +68,6 @@
 * Solo Tech Test [Database Tech Test] (https://github.com/adrianeyre/database-tech-test)
 * Solo Tech Test [Gilded Rose Tech Test] (https://github.com/adrianeyre/gilded-rose-tech-test)
 * Solo Tech Test [Bank Tech Test] (https://github.com/adrianeyre/bank-tech-test)
+* Solo Tech Test [Tic-Tac-Toe Tech Test] (https://github.com/adrianeyre/tic-tac-toe-tech-test)
 
 ## <a name="Week1112">Week 11-12 - Final Projects</a>
