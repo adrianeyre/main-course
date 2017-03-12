@@ -70,5 +70,6 @@
 * Solo Tech Test [Bank Tech Test] (https://github.com/adrianeyre/bank-tech-test)
 * Solo Tech Test [Tic-Tac-Toe Tech Test] (https://github.com/adrianeyre/tic-tac-toe-tech-test)
 * Weekend Research [Roll-a-Ball in Unity] (https://github.com/adrianeyre/roll-a-ball)
+* Weekend Research [Food Tacker in Xcode] (https://github.com/adrianeyre/food-tracker)
 
 ## <a name="Week1112">Week 11-12 - Final Projects</a>
