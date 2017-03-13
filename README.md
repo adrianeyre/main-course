@@ -73,3 +73,4 @@
 * Weekend Research [Food Tacker in Xcode] (https://github.com/adrianeyre/food-tracker)
 
 ## <a name="Week1112">Week 11-12 - Final Projects</a>
+* Final Project [Treasure Hunt] (https://github.com/adrianeyre/treasure-hunt)
