@@ -1,6 +1,6 @@
 # Git Pong
 
-* [Makers Academy - Full GitPong Help] (https://github.com/makersacademy/course/blob/61d35818fa65f1e7acbaab634b31b5e78c9b5f13/pills/github_pong.md)
+* [Makers Academy - Full GitPong Help](https://github.com/makersacademy/course/blob/61d35818fa65f1e7acbaab634b31b5e78c9b5f13/pills/github_pong.md)
 
 ## Initial Local Git Set up
 ```shell
