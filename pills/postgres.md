@@ -1,9 +1,9 @@
 # Postgres and SQL Help
 
-* [Install Postgres] (#Install)
-* [Run Postgres] (#Run)
-* [Postgres Command] (#PCommands)
-* [Basic SQL Commands] (#SQL)
+* [Install Postgres](#Install)
+* [Run Postgres](#Run)
+* [Postgres Command](#PCommands)
+* [Basic SQL Commands](#SQL)
 
 ## <a name="Install">Install Postgres</a>
 ```shell
