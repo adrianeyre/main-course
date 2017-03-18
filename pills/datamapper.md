@@ -1,8 +1,8 @@
 # DataMapper Help
 
-* [DataMapper Command] (#DCommands)
-* [Using DataMapper] (#use)
-* [Relationships] (#rel)
+* [DataMapper Command](#DCommands)
+* [Using DataMapper](#use)
+* [Relationships](#rel)
 
 ## <a name="DCommands">DataMapper Commands</a>
 `Class_Name.create(Method_Name: "Data")` = Inserts data into database
