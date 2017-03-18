@@ -10,7 +10,7 @@
 * [Gem Help](https://github.com/adrianeyre/pre-course/blob/master/Week1/Ruby/Gems.md)
 * [Git Pong](pills/GitPong.md)
 * [Coveralls Help](pills/Coveralls.md)
-* [SOLID Principles] (pills/solid-OOP_wall-skills.jpg)
+* [SOLID Principles](pills/solid-OOP_wall-skills.jpg)
 * [Dot Env Help](https://github.com/codeunion/dotenv-example)
 * [Heroku Help](pills/heroku.md)
 * [Codewars Examples](https://github.com/adrianeyre/codewars)
